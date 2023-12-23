@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 Hello, I'm Mahak Arora
 
-<!--
-**MahakArora/MahakArora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a passionate Student with a keen interest in Computer Science. I love exploring new technologies and finding innovative solutions to challenges.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+I'm continuously learning and exploring Coding world. I believe in the importance of lifelong learning and staying up-to-date with the latest industry trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+- LinkedIn: [https://www.linkedin.com/in/mahak-arora-b5737621b/]
+- Email: [mahakarora1301@gmail.com]
+
+### 🤝 Let's Connect
+I'm always open to connecting with fellow developers, tech enthusiasts, and industry professionals. Feel free to reach out if you share similar interests or have exciting collaboration opportunities.
+
+Happy coding! 🚀
